@@ -1,0 +1,40 @@
+.contributor_profile img{
+
+    display: inline-block;
+
+    margin-right: 10px;
+    border-radius: 20px;
+
+}
+
+.contributor_profile a{
+
+	text-decoration: none;
+
+}
+.contributor_profile ul{
+ 	list-style-type: none !important;
+	margin-top: 24px;
+	
+}
+
+
+.contributor_profile li{
+
+	margin-bottom: 24px;
+	width: 33%;
+    display: inline-block;
+
+}
+
+.contributor_profile legend{
+
+	background-color: #5ec5f0;   
+    color: #fff;
+    font-size: 12px;   
+    letter-spacing: 1px;
+    line-height: 1.5;
+    padding: 16px 30px;
+    text-transform: uppercase;
+
+}
