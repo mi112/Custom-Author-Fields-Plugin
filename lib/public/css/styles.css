@@ -1,3 +1,5 @@
+/* Plugin Name: Custom Fields */
+
 .contributor_profile img{
 
     display: inline-block;
@@ -37,4 +39,11 @@
     padding: 16px 30px;
     text-transform: uppercase;
 
+}
+
+@media only screen and (max-width: 768px) {
+ .contributor_profile li {
+    display: block;
+        width: 100%;
+  }
 }
