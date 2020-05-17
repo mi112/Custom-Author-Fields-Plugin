@@ -10,7 +10,7 @@
 >1. 'style.css' (Path: /lib/public/css/styles.css)
 
 ## Installation and Usage :
->1. Upload 'Custom Fields' directory to '/wp-content/plugins/' 
+>1. Upload 'custom-fields' directory to '/wp-content/plugins/' 
 >2. Activate 'Custom Fields' from Plugins page
 >3. Create/Edit posts to add contributors to any post 
 
