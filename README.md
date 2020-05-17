@@ -1,7 +1,8 @@
-# WordPress Contributors Plugin
-  This repository contains rtCamp Wordpress Engineer Challenge-2b: WordPress-Contributors Plugin
+# Custom Fields Plugin
+  This repository contains rtCamp Wordpress Engineer Challenge-2b: Custom field for Contributors
 
 ## Features provided by this plugin :
+* Displays custom field for 'Contributors' in post 
 * Add/remove multiple contributors to post
 * Display Contributors (with link to profile) on post frontend
 
