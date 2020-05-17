@@ -1,12 +1,19 @@
-== WordPress Contributors Plugin ==
+=== Custom Fields ===
+Contributors: Mittala Nandle
+Tags: custom fields, contributors field
+Requires at least: 5.2
+Tested up to: 5.4.1
+Stable tag: 1.0.1
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Version: 1.0.0
-Tested Up to: 5.3.2
-Contributor: Mittala
+Enables the custom field for 'Contributors' on posts
+
 
 == Description ==
 
-This plugin adds Contriutors field to post and display it on frontend
+This plugin adds custom field to display Contributors on post 
 
 == Features ==
 
@@ -15,7 +22,7 @@ This plugin adds Contriutors field to post and display it on frontend
 
 == Installation and usage ==
 
-1. Upload 'Custom Fields' directory to '/wp-content/plugins/' 
+1. Upload 'custom-fields' directory to '/wp-content/plugins/' 
 2. Activate 'Custom Fields' from Plugins page
 3. Create/Edit posts to add contributors to any post 
 
