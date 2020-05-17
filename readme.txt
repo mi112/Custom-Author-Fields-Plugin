@@ -8,7 +8,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables the custom field for 'Contributors' on posts
+Displays the custom field for 'Contributors' on posts
 
 
 == Description ==
