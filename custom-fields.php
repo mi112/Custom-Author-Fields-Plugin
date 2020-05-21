@@ -2,7 +2,7 @@
 /**
  * Custom Fields
  *
- * @package     WordPress_Custom_Fields
+ * @package     Custom_Fields
  *
  * Plugin Name: Custom Fields
  * Plugin URI:  https://github.com/mi112/custom-fields
