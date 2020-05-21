@@ -1,11 +1,10 @@
 /* Plugin Name: Custom Fields */
-
 .contributor_profile img{
 
-    display: inline-block;
+	display: inline-block;
 
-    margin-right: 10px;
-    border-radius: 20px;
+	margin-right: 10px;
+	border-radius: 20px;
 
 }
 
@@ -15,9 +14,9 @@
 
 }
 .contributor_profile ul{
- 	list-style-type: none !important;
+	list-style-type: none !important;
 	margin-top: 24px;
-	
+
 }
 
 
@@ -25,25 +24,25 @@
 
 	margin-bottom: 24px;
 	width: 33%;
-    display: inline-block;
+	display: inline-block;
 
 }
 
 .contributor_profile legend{
 
-	background-color: #5ec5f0;   
-    color: #fff;
-    font-size: 12px;   
-    letter-spacing: 1px;
-    line-height: 1.5;
-    padding: 16px 30px;
-    text-transform: uppercase;
+	background-color: #5ec5f0;
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	padding: 16px 30px;
+	text-transform: uppercase;
 
 }
 
 @media only screen and (max-width: 768px) {
- .contributor_profile li {
-    display: block;
-        width: 100%;
-  }
+	.contributor_profile li {
+		display: block;
+		width: 100%;
+	}
 }
