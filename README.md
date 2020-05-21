@@ -17,6 +17,10 @@
 ##  Link of working plugin demo :
 
 ###  **https://www.mittala.com/wp-challenge/blog-post-4/**
+
+## Login details :
+> Username: test-user-01
+> Password: test-user-01
   
 ## Screenshots :
 #### Add contributor to post :
