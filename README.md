@@ -1,5 +1,5 @@
 # Custom Fields Plugin
-  This repository contains rtCamp Wordpress Engineer Challenge-2b: Custom field for Contributors
+  This repository contains Wordpress Challenge : Custom field for Contributors
 
 ## Features provided by this plugin :
 * Displays custom field for 'Contributors' in post 
